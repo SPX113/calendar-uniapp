@@ -1,0 +1,1 @@
+<view class="item data-v-280a9e64"><view class="days data-v-280a9e64">{{days+''}}<label class="tian _span data-v-280a9e64">{{"天"+(type===0?'后':'')}}</label></view><view class="left data-v-280a9e64"><view class="title data-v-280a9e64">{{''+title+''}}</view><view class="date data-v-280a9e64">{{''+startDate+''}}</view></view></view>

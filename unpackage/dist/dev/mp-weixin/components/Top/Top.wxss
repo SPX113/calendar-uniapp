@@ -1,0 +1,25 @@
+
+.top.data-v-67ee5870{
+	background-color: rgb(255,255,255,.2);
+	margin: 20rpx;
+	border-radius: 20rpx;
+	height: 400rpx;
+	text-align: center;
+	padding-top: 60rpx;
+	box-sizing: border-box;
+}
+.top .title.data-v-67ee5870{
+	text-decoration:underline;
+}
+.top .days.data-v-67ee5870{
+	font-size: 150rpx;
+	position: relative;
+	font-weight: bold;
+}
+.days text.data-v-67ee5870{
+	font-size: 1.1rem;
+	position: absolute;
+	top: 40rpx;
+	margin-left: 20rpx;
+}
+

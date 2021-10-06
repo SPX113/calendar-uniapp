@@ -1,0 +1,22 @@
+
+.container.data-v-57280228 {
+	width: 100%;
+	min-height: 100vh;
+	color: white;
+	background: url(/static/background.jpg) no-repeat;
+	background-size: 100% 100%;
+	background-position: top center; 
+	background-attachment: fixed;
+}
+.status_bar.data-v-57280228 {
+	height: 25px;
+}
+.navBar.data-v-57280228 {
+	margin: 0 20rpx;
+	height: 150rpx;
+	line-height: 150rpx;
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: bolder;
+}
+

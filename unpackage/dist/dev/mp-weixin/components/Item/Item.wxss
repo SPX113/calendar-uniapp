@@ -1,0 +1,30 @@
+
+.item.data-v-280a9e64{
+	background-color: rgb(255,255,255,.2);
+	margin: 20rpx;
+	border-radius: 20rpx;
+	box-sizing: border-box;
+	height: 150rpx;
+	position: relative;
+}
+.item>.days.data-v-280a9e64{
+	float: right;
+	font-size: 60rpx;
+	padding-top: 30rpx;
+	font-weight: bold;
+	margin-right: 80rpx;
+}
+.tian.data-v-280a9e64{
+	content: "天";
+	font-size: 1rem;
+	position: absolute;
+	margin-left: 10rpx;
+}
+.item>.left.data-v-280a9e64{
+	margin-left: 40rpx;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+

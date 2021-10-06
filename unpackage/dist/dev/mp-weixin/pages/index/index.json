@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/Top/Top",
+    "item": "/components/Item/Item"
+  }
+}
